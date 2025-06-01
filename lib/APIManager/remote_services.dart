@@ -8,7 +8,8 @@ import 'package:tuple/tuple.dart';
 
 
 import '../AppRoutes/constants.dart';
-import '../Models/ResponseModel.dart';
+
+import '../data/Models/ResponseModel.dart';
 import 'init_dio.dart';
 import 'network_utils.dart';
 
